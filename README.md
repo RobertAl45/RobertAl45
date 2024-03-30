@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning AI
 
 <!---
 RobertAl45/RobertAl45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
